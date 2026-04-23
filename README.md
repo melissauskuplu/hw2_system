@@ -20,7 +20,7 @@ The system is designed to handle two critical operational stages:
 
 - **Stage 2: AI Analysis & Processing**
   - **Data Source:** Fetches live CSV data from a remote Google Sheet.
-  - **AI Engine:** Integrates **Gemini 1.5 Flash** to perform a professional analysis of Sales, Efficiency, and Error Rates.
+  - **AI Engine:** Integrates **Gemini Flash Latest** to perform a professional analysis of Sales, Efficiency, and Error Rates.
   - **Focus:** Diagnostic analysis of the October variance.
 
 - **Stage 3: Automated Delivery**
