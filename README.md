@@ -1,7 +1,7 @@
 # 📊 Data Input, Persistence & AI Reporting System (HW2)
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![AI](https://img.shields.io/badge/AI-Gemini%201.5%20Flash-orange.svg)](https://aistudio.google.com/)
+[![AI](https://img.shields.io/badge/AI-Gemini%20Flash-orange.svg)](https://aistudio.google.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-green.svg)](https://github.com/)
 
 An autonomous data pipeline developed for **HW2 – Data Input & Persistence**. This system bridges the gap between raw data entry and professional AI-powered reporting.
